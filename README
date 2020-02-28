@@ -1,0 +1,18 @@
+# Konstytucja
+Wyświetla losowy bądź wybrany artykuł najnowszej konstytucji.
+
+    pip install konstytucja
+    git clone https://github.com/bartekbrak/konstytucja.git
+    pip install -e ./konstytucja
+    konstytucja --help
+    konstytucja  # losowy artykuł
+    konstytucja 66
+    konstytucja 0  3 preambuła
+
+Tekst konstytucji pobrany z [1] 2020.02.28, przekonwertowany do formatu 
+tekstowego za pomocą LibreOffice 6.3.4.2. O ile rozumiem, konstytuacja nie jest
+objęta żądną licencją, naromiast sam infor.pl może rościć sobie prawa do 
+zformatowania, mam to w dupie.
+
+
+[1] https://www.infor.pl/prawo/konstytucja/inne/76717,Pelne-teksty-konstytucji-do-pobrania.html
